@@ -1,6 +1,6 @@
 # Alurapic
 
-##Desenvolvido seguindo o curso de Angular da [Alura](https://www.alura.com.br/)
+## Desenvolvido seguindo o curso de Angular da [Alura](https://www.alura.com.br/)
 ministrado pelo instrutor [Flávio Almeida](https://twitter.com/flaviohalmeida)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
